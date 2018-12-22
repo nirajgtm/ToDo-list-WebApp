@@ -24,7 +24,7 @@ $("input[type='text']").keypress(function(event){
 
 });
 
-$("input[type='text']").fadeToggle(0); //so that input toggles off at start 
+$("input[type='text']").fadeToggle(0); //so that input toggles off at start at 0 secs.
 
 $(".fa-plus").click(function(){
 
